@@ -1,0 +1,18 @@
+SMAP
+staffdetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 staffdetails.jsp
+staffdetails.jsp
++ 1 confile.jsp
+confile.jsp
+*L
+1:50
+2#1,2:51
+4,15:54
+18,2:69
+2#0,54:71
+55,35:125
+89,14:160
+*E

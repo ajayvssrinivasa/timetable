@@ -1,0 +1,17 @@
+SMAP
+admincoursedetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 admincoursedetails.jsp
+admincoursedetails.jsp
++ 1 confile.jsp
+confile.jsp
+*L
+1,2:50
+2#1,2:52
+4,15:55
+18,2:70
+3#0,14:72
+16,21:86
+*E
